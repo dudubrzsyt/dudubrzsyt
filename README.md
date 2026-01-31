@@ -91,6 +91,18 @@
   <a href="https://linkedin.com/in/seuusuario"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
+
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/dYyKPmFbcH1bY/giphy.gif" width="40">
+  <strong> +55 (11) 99004-701 </strong>
+</p>
+
+
+
+
+
 ---
 
 <h3 align="center">✨ Obrigado por visitar meu perfil ✨</h3>

@@ -66,10 +66,16 @@
   <img height="170em" src="https://streak-stats.demolab.com?user=dudubrzsyt&theme=tokyonight&hide_border=false"/>
 </p>
 
+
+
+
 <p align="center">
-  <!-- Contador de visitas -->
-  <img src="https://komarev.com/ghpvc/?username=dudubrzsyt&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=dudubrzsyt&style=for-the-badge&color=8a2be2&label=VISITANTES" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-7000ff?style=for-the-badge" />
+  <img width="180" src="https://i.gifer.com/ZZZR.gif" />
 </p>
+
+
 
 ---
 

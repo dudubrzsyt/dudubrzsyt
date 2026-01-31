@@ -1,89 +1,23 @@
-# 👋 Olá, eu sou o Black (Igor Eduardo)
+## “Desenvolvedor Full Stack em formação, com aprendizado rápido e capacidade de entender e explicar códigos com facilidade, experiência em Java, React, TypeScript, banco de dados e projetos reais, buscando evoluir e criar soluções que gerem impacto de verdade.”
 
-Sou apaixonado por tecnologia, programação, hardware e criação de interfaces modernas.  
-Gosto de construir projetos completos — **front-end, back-end, banco de dados, segurança e deploy**.  
-Aprendo rápido, resolvo problemas e adoro entender como as coisas realmente funcionam.
-
----
-
-## 🚀 Tecnologias que estou estudando e utilizando
-
-### 👨‍💻 **Front-End**
-- React.js  
-- TypeScript  
-- Vite  
-- JSX/TSX  
-- TailwindCSS  
-- Framer Motion  
-- Criação de sites modernos inspirados no estilo da Apple
-
-### 🧠 **Lógica e Programação**
-- Java (do zero ao intermediário)  
-- Estruturas básicas  
-- Programação orientada a objetos  
-- APIs complexos em Java usando HttpServer
-
-### 🛠️ **Back-End**
-- Java  
-- Servidores locais com HttpServer  
-- Rotas, controllers e responses  
-- Tratamento de erros e APIs REST
-
-### 🗄️ **Banco de Dados**
-- MySQL  
-- Criação de tabelas  
-- Comandos SQL  
-- Conexão com o back-end  
-- Deploy e reconstrução do banco (scripts de setup)
-
----
-
-## 🏆 Projetos que já desenvolvi
-
-### 🔹 **Sistema completo para TCC**
-- Front-end React + Vite  
-- Back-end em Java  
-- Banco de dados MySQL  
-- Login, autenticação e página admin  
-- Upload de imagens  
-- Painel de dashboard funcional  
-- Segurança básica (hash, validação, rotas protegidas)  
-📌 *Esse projeto tirou nota 10 e ficou em primeiro lugar.*
-
-### 🔹 **Site estilo Apple**
-- Página inicial inspirada no site oficial  
-- Animações suaves com Framer Motion  
-- Seções com imagens de produtos  
-- Layout responsivo e estilizado
-
-### 🔹 **Sistema de Login com Admin**
-- Criar conta  
-- Login normal  
-- Login de administrador  
-- Redirecionamento automático para dashboard  
-- Estilização completa em TSX  
-- Integração com API
-
----
-
-## 🛠️ Outras habilidades
-- Montagem e upgrade de PC  
-- Diagnóstico de erros de software e hardware  
-- Correção de bugs em projetos React/TypeScript  
-- Resolver erros de import, build, npm e configuração  
-- Organização de pastas e estrutura de projetos
-
----
-
-## 🎯 Objetivo
-Continuar evoluindo como **desenvolvedor full-stack**, criando projetos cada vez mais completos, modernos e profissionais.  
-
----
-
-## 📫 Como falar comigo
-**Email:** dudubrzsyt13@gmail.com  
-**GitHub:** (https://github.com/dudubrzsyt)
-
----
-
-### ✨ Obrigado por visitar meu perfil!
+<div style="display: inline_block"><br>
+  <img align="center" alt="Dudu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dudu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Dudu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Dudu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Dudu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Dudu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Dudu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/@black246confidencial6/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>

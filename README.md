@@ -6,7 +6,7 @@
 
 ---
 
-## ⭐ Sobre mim
+## ⭐ Sobre mim ##
 - 🚀 Desenvolvedor focado em **Java, React, TypeScript e MySQL/PostgreSQL**
 - 🧠 Tenho muita facilidade em entender e explicar códigos só de olhar
 - 💡 Aprendo rápido e gosto de transformar ideias em projetos reais

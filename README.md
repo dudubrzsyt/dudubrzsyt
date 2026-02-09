@@ -6,7 +6,7 @@
 
 ---
 
-## ⭐ Sobre mim ##
+## ⭐ Sobre mim 
 - 🚀 Desenvolvedor focado em **Java, React, TypeScript e MySQL/PostgreSQL**
 - 🧠 Tenho muita facilidade em entender e explicar códigos só de olhar
 - 💡 Aprendo rápido e gosto de transformar ideias em projetos reais
@@ -96,7 +96,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/dYyKPmFbcH1bY/giphy.gif" width="40">
-  <strong> +55 (11) 99004-701 </strong>
+  <strong> +55 (11) 99004-7011 </strong>
 </p>
 
 
@@ -105,4 +105,4 @@
 
 ---
 
-<h3 align="center">✨ Obrigado por visitar meu perfil ✨</h3>
+<h3 align="center">✨ Obrigado por visitar meu perfil🔥 ✨</h3>

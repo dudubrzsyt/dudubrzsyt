@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Igor Eduardo</h1>
+<h1 align="center">👋 Olá! Eu sou o Igor Eduardo DEV</h1>
 
 <p align="center">
   Desenvolvedor Full Stack em formação, apaixonado por tecnologia, aprendizado rápido e criação de aplicações modernas utilizando Java, React, TypeScript e banco de dados.

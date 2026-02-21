@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  Desenvolvedor Full Stack em formação, apaixonado por tecnologia, aprendizado rápido e criação de aplicações modernas utilizando Java, React, TypeScript e banco de dados.
+  Desenvolvedor Full Stack em formação, apaixonado por tecnologia, aprendizado rápido e criação de aplicações modernas utilizando Java, React, TypeScript e banco de dados. 🧑‍💻
 </p>
 
 ---

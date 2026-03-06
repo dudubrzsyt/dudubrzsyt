@@ -38,8 +38,22 @@
 ## 💻 Front-end
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,vite"/>
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,vite,tailwind"/>
 </p>
+
+Tecnologias utilizadas para criação de **interfaces modernas, responsivas e rápidas**
+
+- React.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- TailwindCSS
+- JSX / TSX
+- Interfaces modernas estilo Apple
+
+---
 
 ## ⚙️ Back-end
 
@@ -47,17 +61,49 @@
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs"/>
 </p>
 
+Tecnologias utilizadas para **lógica de sistemas, APIs e servidores**
+
+- Java
+- Spring Framework
+- APIs REST
+- Servidores HTTP em Java
+- JSON
+- Programação Orientada a Objetos (OOP)
+- Arquitetura Backend
+- Node.js
+
+---
+
 ## 🗄 Banco de Dados
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
 </p>
 
-## 🐳 Dev Tools
+- MySQL
+- PostgreSQL
+- Modelagem de Banco de Dados
+- Queries SQL
+- Integração com APIs
+
+---
+
+## 🧰 Dev Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=intellij,vscode,git,github,docker"/>
 </p>
+
+Ferramentas utilizadas no desenvolvimento
+
+- IntelliJ IDEA
+- VS Code
+- Git
+- GitHub
+- Docker
+- Terminal / CLI
+- Debug de aplicações
+- Gerenciamento de projetos
 
 ---
 

@@ -69,6 +69,7 @@ Tecnologias utilizadas para **lógica de sistemas, APIs e servidores**
 - Servidores HTTP em Java
 - JSON
 - Programação Orientada a Objetos (OOP)
+- Programação Orientada a Eventos EDA (Event-Driven Architecture)
 - Arquitetura Backend
 - Node.js
 

@@ -10,16 +10,13 @@
 
 ---
 
-# 👋 Olá, eu sou o **Igor Eduardo**
-
 <p align="center">
+   IGOR EDUARDO PINHEIRO DE ARAUJO
 💻 Desenvolvedor Full Stack em formação <br>
 🚀 Apaixonado por tecnologia, backend e interfaces modernas
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-</p>
+
 
 ---
 
@@ -43,15 +40,7 @@
 
 Tecnologias utilizadas para criação de **interfaces modernas, responsivas e rápidas**
 
-- React.js
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- Vite
-- TailwindCSS
-- JSX / TSX
-- Interfaces modernas estilo Apple
+
 
 ---
 
@@ -63,15 +52,7 @@ Tecnologias utilizadas para criação de **interfaces modernas, responsivas e r�
 
 Tecnologias utilizadas para **lógica de sistemas, APIs e servidores**
 
-- Java
-- Spring Framework
-- APIs REST
-- Servidores HTTP em Java
-- JSON
-- Programação Orientada a Objetos (OOP)
-- Programação Orientada a Eventos EDA (Event-Driven Architecture)
-- Arquitetura Backend
-- Node.js
+
 
 ---
 
@@ -81,11 +62,9 @@ Tecnologias utilizadas para **lógica de sistemas, APIs e servidores**
 <img src="https://skillicons.dev/icons?i=mysql,postgresql"/>
 </p>
 
-- MySQL
-- PostgreSQL
-- Modelagem de Banco de Dados
-- Queries SQL
-- Integração com APIs
+Onde é Guardado Informações Melhores bancos Utilizados
+
+
 
 ---
 
@@ -97,27 +76,9 @@ Tecnologias utilizadas para **lógica de sistemas, APIs e servidores**
 
 Ferramentas utilizadas no desenvolvimento
 
-- IntelliJ IDEA
-- VS Code
-- Git
-- GitHub
-- Docker
-- Terminal / CLI
-- Debug de aplicações
-- Gerenciamento de projetos
+
 
 ---
-
-# 🚀 Projetos
-
-✨ Alguns projetos que desenvolvi:
-
-| Projeto | Tecnologias |
-|------|-------------|
-Interface estilo Apple | React + Vite |
-Sistema Full Stack | Java + React |
-Loja de celulares (Terminal) | Java OOP |
-Servidor HTTP Java | Java + JSON |
 
 ---
 
@@ -131,17 +92,11 @@ Servidor HTTP Java | Java + JSON |
 
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=dudubrzsyt&theme=tokyonight"/>
-</p>
+
 
 ---
 
-# 🐍 Contribuições
 
-<p align="center">
-<img src="https://github.com/dudubrzsyt/dudubrzsyt/blob/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ---
 
@@ -187,12 +142,3 @@ Servidor HTTP Java | Java + JSON |
 
 ---
 
-# ☕ Curiosidade
-
-```java
-while(alive){
-   eat();
-   sleep();
-   code();
-   repeat();
-}

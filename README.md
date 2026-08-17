@@ -4,17 +4,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=7A3FFF&center=true&vCenter=true&width=600&lines=Java+%7C+React+%7C+TypeScript;Backend+%2B+Frontend;Transformando+ideias+em+c%C3%B3digo+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=7A3FFF&center=true&vCenter=true&width=650&lines=Java+%7C+React+%7C+TypeScript;Cloud+%E2%80%A2+AWS+%E2%80%A2+MySQL;Transformando+ideias+em+c%C3%B3digo+%F0%9F%9A%80"/>
 </p>
 
 <h3 align="center">Igor Eduardo Pinheiro de Araújo</h3>
-<p align="center">Full Stack em formação, focado em Java e React</p>
+<p align="center">💻 Full-Stack Developer | Java • React • TypeScript | Aplicações na nuvem com AWS 🚀</p>
 
 <br>
 
 ## 🧠 Sobre mim
 
-Trabalho com **Java no back-end** e **React no front-end**, com facilidade para entender lógica e transformar ideias em sistemas funcionando. Já são **30+ projetos** entre estudos e aplicações completas.
+Trabalho com **Java** no back-end e **React/TypeScript** no front-end, com experiência em banco de dados **MySQL** e deploy na nuvem **AWS**. Tenho facilidade para entender lógica rapidamente e transformar ideias em sistemas reais — já são **60+ projetos** entre estudos e aplicações completas.
 
 <br>
 
@@ -29,8 +29,11 @@ Trabalho com **Java no back-end** e **React no front-end**, com facilidade para 
 **Banco de Dados**
 <p><img src="https://skillicons.dev/icons?i=mysql,postgresql"/></p>
 
+**Cloud & DevOps**
+<p><img src="https://skillicons.dev/icons?i=aws,docker,git,github"/></p>
+
 **Ferramentas**
-<p><img src="https://skillicons.dev/icons?i=intellij,vscode,git,github,docker"/></p>
+<p><img src="https://skillicons.dev/icons?i=intellij,vscode"/></p>
 
 <br>
 
@@ -46,10 +49,10 @@ Trabalho com **Java no back-end** e **React no front-end**, com facilidade para 
 ## 🌐 Contato
 
 <p align="center">
-  <a href="SEU_LINK_LINKEDIN"><img src="https://www.linkedin.com/in/igor-eduardo-pinheiro-de-araujo-araujo-8a8593357/-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="SEU_LINK_INSTAGRAM"><img src="https://www.instagram.com/igoreduardo.dev/?hl=en-badge&logo=instagram&logoColor=white"/></a>
-  <a href="SEU_LINK_DISCORD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/igor-eduardo-pinheiro-de-araujo-araujo-8a8593357/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dudubrzsyt13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/igoreduardo.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://apple-clone-storev2.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 <p align="center">

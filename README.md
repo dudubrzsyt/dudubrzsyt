@@ -22,29 +22,42 @@ Trabalho com **Java** no back-end e **React/TypeScript** no front-end, com exper
 
 **Front-end**
 <p><img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,vite,tailwind"/></p>
+- @tanstack/react-router (roteamento)
+- lucide-react (ícones)
+- Reveal (componente próprio)
 
 **Back-end**
-<p><img src="https://skillicons.dev/icons?i=java,spring,nodejs"/></p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,java,spring"/></p>
+- Supabase (BaaS)
+- Asaas (gateway de pagamento)
 
 **Banco de Dados**
-<p><img src="https://skillicons.dev/icons?i=mysql,postgresql"/></p>
+<p><img src="https://skillicons.dev/icons?i=postgresql,mysql"/></p>
+- localStorage (para projetos pessoais)
 
 **Cloud & DevOps**
 <p><img src="https://skillicons.dev/icons?i=aws,docker,git,github"/></p>
 
 **Ferramentas**
-<p><img src="https://skillicons.dev/icons?i=intellij,vscode"/></p>
+<p><img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio"/></p>
 
 <br>
+
 
 ## 📊 Estatísticas
 
+
+
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dudubrzsyt&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubrzsyt&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dudubrzsyt&theme=tokyonight" width="45%" />
+  
 </p>
 
+
+
+
 <br>
+
 
 ## 🌐 Contato
 

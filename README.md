@@ -46,9 +46,9 @@ Trabalho com **Java no back-end** e **React no front-end**, com facilidade para 
 ## 🌐 Contato
 
 <p align="center">
-  <a href="SEU_LINK_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="SEU_LINK_LINKEDIN"><img src="https://www.linkedin.com/in/igor-eduardo-pinheiro-de-araujo-araujo-8a8593357/-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="SEU_LINK_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="SEU_LINK_INSTAGRAM"><img src="https://www.instagram.com/igoreduardo.dev/?hl=en-badge&logo=instagram&logoColor=white"/></a>
   <a href="SEU_LINK_DISCORD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 

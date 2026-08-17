@@ -52,7 +52,7 @@ Trabalho com **Java** no back-end e **React/TypeScript** no front-end, com exper
   <a href="https://www.linkedin.com/in/igor-eduardo-pinheiro-de-araujo-araujo-8a8593357/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:dudubrzsyt13@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/igoreduardo.dev/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://apple-clone-storev2.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://diamantedev.com.br/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 <p align="center">
